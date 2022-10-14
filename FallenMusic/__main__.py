@@ -24,7 +24,7 @@ HELPABLE = {}
 
 async def fallen_boot():
     with console.status(
-        "[magenta] Booting Fallen Music...",
+        "[magenta] Booting ᴠᴇɴᴏᴍ ✘ ᴍᴜsɪᴄ...",
     ) as status:
         console.print("┌ [red]Clearing MongoDB Cache...")
         try:
@@ -217,7 +217,7 @@ async def start_command(_, message):
             ],
             [
                 InlineKeyboardButton(
-                    text="☁ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ☁", url="https://github.com/AnonymousR1025/Fallen-Music"
+                    text="☁ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ☁", url="https://github.com/VENOM95823358158/Fallen-Music"
                 )
             ],
         ]
@@ -255,7 +255,7 @@ async def fallen_home(_, CallbackQuery):
             ],
             [
                 InlineKeyboardButton(
-                    text="☁ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ☁", url="https://github.com/AnonymousR1025/Fallen-Music"
+                    text="☁ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ☁", url="https://github.com/VENOM95823358158/Fallen-Music"
                 )
             ],
         ]
